@@ -1,0 +1,15 @@
+wikis@Phenomenal MINGW64 ~/OneDrive/Documents/CPP/C_Projects/00_Project (main)        
+$ git commit -m "moon_phase_is_new"
+[main c2972a8] moon_phase_is_new
+ 6 files changed, 138 insertions(+), 2 deletions(-)
+ create mode 100644 00_Project/01_time.c
+ create mode 100644 00_Project/02_moon_phase_algorithm.c
+ create mode 100644 00_Project/moon_phase.exe
+ create mode 100644 00_Project/time.exe
+Delta compression using up to 12 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 43.31 KiB | 1.88 MiB/s, done.
+Total 9 (delta 4), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (4/4), completed with 1 local object.
+To https://github.com/phenomenalprince15/C_Projects.git
+   75971bb..c2972a8  main -> main
